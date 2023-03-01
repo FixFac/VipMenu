@@ -1,0 +1,18 @@
+---
+name: VipMenu-FacFix
+version: 0.0.1
+main: fix\vipmenu\Main
+api: 4.0.0
+commands:
+  vipmenu:
+    description: "VipMenu - FixFac"
+    permission: vipmenu.command
+
+permissions:
+  vipmenu.command:
+    description: "Menu"
+    default: op
+  chatvip.fixfac:
+    default: op
+
+...
